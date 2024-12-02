@@ -4,7 +4,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Olá neon tudo bem?");
+		System.out.println("Init to very bad execion :(");
 
 	}
 
